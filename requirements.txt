@@ -1,6 +1,5 @@
 fastai
-voila
 gradio
-ipywidgets
 pillow
-gdown
+torch
+torchvision
