@@ -1,5 +1,5 @@
-fastai
-gradio
+fastai==2.7.18
+torch==2.2.2
+torchvision==0.17.2
+gradio==4.19.2
 pillow
-torch
-torchvision
