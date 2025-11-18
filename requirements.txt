@@ -1,4 +1,6 @@
 fastai
 voila
 gradio
+ipywidgets
+pillow
 gdown
